@@ -20,4 +20,7 @@ tolerance value for a given input image.
 
 The input image is downsampled to reduce processing time -  the included Max patch provides a umenu to adjust this as needed.
 
+TESTED ON MAX7 ONLY.
+
+
 All feedback welcome!
