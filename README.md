@@ -1,7 +1,7 @@
 # PaletteGrab
 Max patch/Java classes that analyze an input image and derive its color palette.
 
-All code by Jesse Gilbert, 2015.
+All code by Jesse Gilbert, 2012-15.
 
 
 PaletteGrab uses custom Java classes to analyze an arbitrary input image and generate an 8-color palette that represents its dominant colors, and a histogram
