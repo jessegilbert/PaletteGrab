@@ -4,8 +4,9 @@ Max patch/Java classes that analyze an input image and derive its color palette.
 All code by Jesse Gilbert, 2015.
 
 
-PaletteGrab uses custom Java classes to analyze an arbitrary input image and generate an 8-color palette that represents its dominant colors.
-The analysis/sorting algorithm requires an input matrix in CIE-Lab format.  In order to achieve this, use my colorspace transformation shaders available here:
+PaletteGrab uses custom Java classes to analyze an arbitrary input image and generate an 8-color palette that represents its dominant colors, and a histogram
+to show the color distribution.  The analysis/sorting algorithm requires an input matrix in CIE-Lab format.  In order to achieve this, use my colorspace 
+transformation shaders, available here:
 
 http://jessegilbert.net/release/shaders/
 
